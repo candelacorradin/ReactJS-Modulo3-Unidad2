@@ -248,14 +248,4 @@ sin recargar la página.
 
 **Autora:** Candela Corradin Tessa  
 **Curso:** Desarrollo Full Stack — React Avanzado  
-**Módulo 3 · Unidad 2:** CRUD en Firestore  
-
-## Bibliografía y documentación
-
-- Banks, A. y Porcello, E. *Learning React: Modern Patterns for Developing React Apps*. 2ª ed. O'Reilly Media; 2020.
-- Gupta, S. *Getting Started with Firebase*. 1ª ed. Packt Publishing; 2017.
-- Firebase. (s.f.). *Primeros pasos con Cloud Firestore*. https://firebase.google.com/docs/firestore/quickstart
-- Firebase. (s.f.). *Agrega datos a Cloud Firestore*. https://firebase.google.com/docs/firestore/manage-data/add-data
-- Firebase. (s.f.). *Obtén datos con Cloud Firestore*. https://firebase.google.com/docs/firestore/query-data/get-data
-- Firebase. (s.f.). *Borra datos de Cloud Firestore*. https://firebase.google.com/docs/firestore/manage-data/delete-data
-- Firebase. (s.f.). *Comienza a usar las reglas de seguridad de Cloud Firestore*. https://firebase.google.com/docs/firestore/security/get-started
+**Módulo 3 · Unidad 2:** CRUD en Firestore
